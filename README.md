@@ -14,7 +14,7 @@
 
 
 
-
+<style>
 body {
   width: 500px;
   margin: 0 auto;
@@ -27,3 +27,4 @@ p {
     margin: 10px;
     border-radius: 7px;
 }
+<style>
