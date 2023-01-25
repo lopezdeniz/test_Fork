@@ -7,122 +7,117 @@
 <h2>Список литературы</h2>
 </ul>
  
-:pushpin: https://3uikit.ru/toggle 
-</ul>
-:pushpin: https://3uikit.ru/animation 
-</ul>
-:pushpin: https://coderlessons.com/articles/mobilnaia-razrabotka-articles/ios-s-nulia-s-swift-pervye-shagi-s-uikit
-</ul>
-:white_check_mark: 1. [Методичка по Swift](https://swiftbook.ru/content/languageguide/basics/) – русскоязычный перевод [этой официальной](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) методички.
 
-:white_check_mark: 1. [Учебник по Swift](https://books.apple.com/ru/book-series/swift-programming-series/id888896989) Главный учебник от Apple
+:white_check_mark:  [Методичка по Swift](https://swiftbook.ru/content/languageguide/basics/) – русскоязычный перевод [этой официальной](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) методички.
 
-:white_check_mark: 1. [App Development with Swift](https://books.apple.com/ru/book/app-development-with-swift/id1219117996) Учебник от Apple
+:white_check_mark:  [Учебник по Swift](https://books.apple.com/ru/book-series/swift-programming-series/id888896989) Главный учебник от Apple
 
-:white_check_mark: 1. [Intro to App Development with Swift](https://books.apple.com/ru/book/intro-to-app-development-with-swift/id1118575552) Учебник от Apple
+:white_check_mark:   [App Development with Swift](https://books.apple.com/ru/book/app-development-with-swift/id1219117996) Учебник от Apple
 
-:ballot_box_with_check: 1. [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice/v6.0) Книга для пошагового изучения Swift с сайта Рея Вандерлиха 
+:white_check_mark:   [Intro to App Development with Swift](https://books.apple.com/ru/book/intro-to-app-development-with-swift/id1118575552) Учебник от Apple
 
-:ballot_box_with_check: 1. [Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product/kniga-swift-razrabotka-prilozhenij-pod-ios-i-ipados-6-e-izdanie-kniga-1/) Шикарная книга на русском для начинающих изучать Swift. Всё по полочкам в голове разложится!
+:ballot_box_with_check:   [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice/v6.0) Книга для пошагового изучения Swift с сайта Рея Вандерлиха 
 
-:ballot_box_with_check: 1. [Блог развития языка Swift](https://swift.org/blog/) Публикации обновлений языка и анонсы будущих нововведений
+:ballot_box_with_check:   [Swift. Основы разработки приложений под iOS, iPadOS и macOS (6-е издание)](https://swiftme.ru/product/kniga-swift-razrabotka-prilozhenij-pod-ios-i-ipados-6-e-izdanie-kniga-1/) Шикарная книга на русском для начинающих изучать Swift. Всё по полочкам в голове разложится!
 
-:ballot_box_with_check: 1. [Эволюция языка Swift.](https://apple.github.io/swift-evolution/)
+:ballot_box_with_check:   [Блог развития языка Swift](https://swift.org/blog/) Публикации обновлений языка и анонсы будущих нововведений
+
+:ballot_box_with_check:   [Эволюция языка Swift.](https://apple.github.io/swift-evolution/)
 Можно отслеживать нововведения, новые предложения. Встречаются отличные примеры из практики. Прекрасно подойдет для расширения кругозора. Дополнительно хорошо подойдёт на случай, когда нет определенной цели для изучения.
 
-:ballot_box_with_check: 1. https://www.codewars.com Отточить своё знание Swift на практике. Сайт с сотнями типовых задач.
+:ballot_box_with_check:   https://www.codewars.com Отточить своё знание Swift на практике. Сайт с сотнями типовых задач.
 
-:ballot_box_with_check: 1. [The official Swift style guide for raywenderlich.com](https://github.com/raywenderlich/swift-style-guide) Код стайл от Рея Вандерлиха.
+:ballot_box_with_check:  [The official Swift style guide for raywenderlich.com](https://github.com/raywenderlich/swift-style-guide) Код стайл от Рея Вандерлиха.
 
-:ballot_box_with_check: 1. [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497-CH2-SW1) Всё об использовании разметки текста в Xcode: как правильно вставлять комментарии, чтобы они появлялись в описании свойств и методов, как использовать красивый текст в Playground вместо обычных комментариев и т.п.
+:ballot_box_with_check:  [Markup Formatting Reference](https://developer.apple.com/library/archive/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497-CH2-SW1) Всё об использовании разметки текста в Xcode: как правильно вставлять комментарии, чтобы они появлялись в описании свойств и методов, как использовать красивый текст в Playground вместо обычных комментариев и т.п.
 
-:ballot_box_with_check: 1. [Sample Code](https://developer.apple.com/library/archive/navigation/#section=Resource%20Types&topic=Sample%20Code) Огромный архив от Apple с примерами кода: от поиска по таблицам, до аудио и работы с картами.
+:ballot_box_with_check:  [Sample Code](https://developer.apple.com/library/archive/navigation/#section=Resource%20Types&topic=Sample%20Code) Огромный архив от Apple с примерами кода: от поиска по таблицам, до аудио и работы с картами.
 
 1. [Optionals in Swift explained: 5 things you should know](https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/) Полезная статья про опционалы
 
-:ballot_box_with_check: 1. [Get nth character of a string in Swift programming language](https://stackoverflow.com/questions/24092884/get-nth-character-of-a-string-in-swift-programming-language) Как сделать возможность работать со строкой, как с массивом символов, используя числовой индекс
+:ballot_box_with_check:  [Get nth character of a string in Swift programming language](https://stackoverflow.com/questions/24092884/get-nth-character-of-a-string-in-swift-programming-language) Как сделать возможность работать со строкой, как с массивом символов, используя числовой индекс
 
-:ballot_box_with_check: 1. [How to copy objects in Swift using copy()](https://www.hackingwithswift.com/example-code/system/how-to-copy-objects-in-swift-using-copy) Как копировать классы. Как делать копию объекта класса.
+:ballot_box_with_check:  [How to copy objects in Swift using copy()](https://www.hackingwithswift.com/example-code/system/how-to-copy-objects-in-swift-using-copy) Как копировать классы. Как делать копию объекта класса.
 
-1. [NSAttributedString by example](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example) Как работать с аттрибутированной строкой
+ [NSAttributedString by example](https://www.hackingwithswift.com/articles/113/nsattributedstring-by-example) Как работать с аттрибутированной строкой
 
-1. [What’s the best way to override CustomStringConvertible for a collection?](https://forums.swift.org/t/whats-the-best-way-to-override-customstringconvertible-for-a-collection/24844) Способ настройки печати в консоли информации о кастомном пользовательском объекте (нестандартном)
+ [What’s the best way to override CustomStringConvertible for a collection?](https://forums.swift.org/t/whats-the-best-way-to-override-customstringconvertible-for-a-collection/24844) Способ настройки печати в консоли информации о кастомном пользовательском объекте (нестандартном)
 
-1. [How to use Result in Swift](https://www.hackingwithswift.com/articles/161/how-to-use-result-in-swift) Нововведение в Swift: удобная штука для обработки ошибок!
+ [How to use Result in Swift](https://www.hackingwithswift.com/articles/161/how-to-use-result-in-swift) Нововведение в Swift: удобная штука для обработки ошибок!
 
-1. [Из ошибки в алерт с действиями](https://habr.com/ru/company/manychat/blog/495346/)
+ [Из ошибки в алерт с действиями](https://habr.com/ru/company/manychat/blog/495346/)
 
-1. [Swift Protocols Don’t Play Nice With Equatable. Or Can They?](https://khawerkhaliq.com/blog/swift-protocols-equatable-part-one/)
+ [Swift Protocols Don’t Play Nice With Equatable. Or Can They?](https://khawerkhaliq.com/blog/swift-protocols-equatable-part-one/)
 Как сделать, чтобы объекты кастомного класса можно было сравнивать между собой напрямую? 
 *Протоколы и расширения, Equitable*
 
-1. [The Swift Runtime: Enums](https://belkadan.com/blog/2020/10/Swift-Runtime-Enums/) Глубокое погружение в работу Энумов
+ [The Swift Runtime: Enums](https://belkadan.com/blog/2020/10/Swift-Runtime-Enums/) Глубокое погружение в работу Энумов
 
-1. [Formatting Notes and Gotchas](https://www.andyibanez.com/posts/formatting-notes-and-gotchas/) Форматирование дат, строк и чисел
+ [Formatting Notes and Gotchas](https://www.andyibanez.com/posts/formatting-notes-and-gotchas/) Форматирование дат, строк и чисел
 
-1. [as, as?, and as!](https://oleb.net/2020/as/) Операторы сравнения и приведения типов
+ [as, as?, and as!](https://oleb.net/2020/as/) Операторы сравнения и приведения типов
 
-1. [Higher Order Functions in Swift (Sorted, Map, Filter, Reduce)](https://medium.com/@Dougly/higher-order-functions-in-swift-sorted-map-filter-reduce-dff60b5b6adf)
+ [Higher Order Functions in Swift (Sorted, Map, Filter, Reduce)](https://medium.com/@Dougly/higher-order-functions-in-swift-sorted-map-filter-reduce-dff60b5b6adf)
 
-1. [Кортежи, Протоколы, Делегаты И Табличный Формат](https://swiftbook.ru/post/tutorials/swift-chast-3-korteji-protokoly-delegaty-i-tablichnyy-format/)
+ [Кортежи, Протоколы, Делегаты И Табличный Формат](https://swiftbook.ru/post/tutorials/swift-chast-3-korteji-protokoly-delegaty-i-tablichnyy-format/)
 
-1. [Используем замыкания в Swift по полной](https://habr.com/ru/post/241303/)
+ [Используем замыкания в Swift по полной](https://habr.com/ru/post/241303/)
 
-1. [Атрибуты](https://habr.com/ru/post/241303/) Про странные слова с @, встречающиеся в коде (@available, @objc и т.п.)
+ [Атрибуты](https://habr.com/ru/post/241303/) Про странные слова с @, встречающиеся в коде (@available, @objc и т.п.)
 
-1. [Int, UInt8 or UInt16. Swift, I’m confused](https://medium.com/macoclock/int-uint8-or-uint16-swift-im-confused-bbb19f28e4ad) Про разницу между типами UInt8, UInt16 и т.п.
+ [Int, UInt8 or UInt16. Swift, I’m confused](https://medium.com/macoclock/int-uint8-or-uint16-swift-im-confused-bbb19f28e4ad) Про разницу между типами UInt8, UInt16 и т.п.
 
-1. [Multiple conditions in ternary conditional operator?](https://stackoverflow.com/questions/12548857/multiple-conditions-in-ternary-conditional-operator) Тернарный оператор с несколькими условиями
+ [Multiple conditions in ternary conditional operator?](https://stackoverflow.com/questions/12548857/multiple-conditions-in-ternary-conditional-operator) Тернарный оператор с несколькими условиями
 
 
 ### Value Types vs. Reference Types
 
-1. [Controlling Complexity in Swift: Making Value Types Friends](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/)
+ [Controlling Complexity in Swift: Making Value Types Friends](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/)
 
-1. [Maksym Husar - Dig into Value types @ CocoaHeads](https://www.youtube.com/watch?v=8L5cUiV1qDo&feature=share) Всегда ли лучше использовать value types?
+ [Maksym Husar - Dig into Value types @ CocoaHeads](https://www.youtube.com/watch?v=8L5cUiV1qDo&feature=share) Всегда ли лучше использовать value types?
 
-1. [When and How to Use Value and Reference Types in Swift](https://khawerkhaliq.com/blog/swift-value-types-reference-types/#Value_vs._reference_semantics)
+ [When and How to Use Value and Reference Types in Swift](https://khawerkhaliq.com/blog/swift-value-types-reference-types/#Value_vs._reference_semantics)
 
-1. [Value type vs. Reference type](https://www.youtube.com/watch?v=t0k19Xw1xC4&list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&index=19) Видео из Youtube
+ [Value type vs. Reference type](https://www.youtube.com/watch?v=t0k19Xw1xC4&list=PLo6puixMwuSN48TxS4UNCmf6xKXZyQpYX&index=19) Видео из Youtube
 
 
 ### Управление памятью (см. также Дебаггинг)
 
-1. [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
+ [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
 
-1. [Списки захвата в Swift: в чём разница между ссылками weak, strong и unowned?](https://habr.com/ru/post/444336/)
+ [Списки захвата в Swift: в чём разница между ссылками weak, strong и unowned?](https://habr.com/ru/post/444336/)
 
-1. [Swift: ARC и управление памятью](https://habr.com/ru/post/451130/)
+ [Swift: ARC и управление памятью](https://habr.com/ru/post/451130/)
 
-1. [STRONG UNOWNED WEAK — В чем разница?](https://medium.com/@hhadevs/strong-unowned-weak-в-чем-разница-b293963f3375)
+ [STRONG UNOWNED WEAK — В чем разница?](https://medium.com/@hhadevs/strong-unowned-weak-в-чем-разница-b293963f3375)
 
-1. [Unsafe в Swift](https://habr.com/ru/post/276005/)
+ [Unsafe в Swift](https://habr.com/ru/post/276005/)
 
 
 #### Видео на тему языка Swift (кому-то может пригодиться):
 
-1. [Классы и Структуры - YouTube](https://www.youtube.com/watch?v=ucERofjMZRE&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=23)
-1. [Кортежи (Tuples)](https://www.youtube.com/watch?v=_mb_YmvY4JE&list=PLmTuDg46zmKD1Afugc4dYZP_q-zTmBV1n&index=5)
+ [Классы и Структуры - YouTube](https://www.youtube.com/watch?v=ucERofjMZRE&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=23)
+ [Кортежи (Tuples)](https://www.youtube.com/watch?v=_mb_YmvY4JE&list=PLmTuDg46zmKD1Afugc4dYZP_q-zTmBV1n&index=5)
 
 
 ### Протоколо-ориентированное программмирование
 
-1. [Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started](https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started) Статья с сайта Рея Вандерлиха о том, что такое протоколо-ориентированное программирование
+ [Protocol-Oriented Programming Tutorial in Swift 5.1: Getting Started](https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started) Статья с сайта Рея Вандерлиха о том, что такое протоколо-ориентированное программирование
 
-1. [Когда и почему я должен использовать протоколы в Swift?](https://progi.pro/kogda-i-pochemu-ya-dolzhen-ispolzovat-protokoli-v-swift-607757)
+ [Когда и почему я должен использовать протоколы в Swift?](https://progi.pro/kogda-i-pochemu-ya-dolzhen-ispolzovat-protokoli-v-swift-607757)
 
-1. [Do protocols break Single Responsibility Principle?](https://dmtopolog.com/do-protocols-break-srp/)
+ [Do protocols break Single Responsibility Principle?](https://dmtopolog.com/do-protocols-break-srp/)
 
 
 ### Диспетчеризация вызовов в Swift
 
-1. [Method Dispatch в Swift](https://www.youtube.com/watch?v=KoCjIv0moEE) Интересное про таблицы диспетчеризации в Swift. Диспетчеризация на таблицах, сообщениях и прочее. Типичные ошибки при работе с расширениями протоколов.
+ [Method Dispatch в Swift](https://www.youtube.com/watch?v=KoCjIv0moEE) Интересное про таблицы диспетчеризации в Swift. Диспетчеризация на таблицах, сообщениях и прочее. Типичные ошибки при работе с расширениями протоколов.
 
-1. [Swift Dispatch](https://gist.github.com/KingOfBrian/778dc93bffddf25b2c414360727c273b#file-message-swift)
+ [Swift Dispatch](https://gist.github.com/KingOfBrian/778dc93bffddf25b2c414360727c273b#file-message-swift)
 
-1. [Increasing Performance by Reducing Dynamic Dispatch](https://developer.apple.com/swift/blog/?id=27)
+ [Increasing Performance by Reducing Dynamic Dispatch](https://developer.apple.com/swift/blog/?id=27)
 
-1. [Method Replacement for Fun and Profit](https://www.mikeash.com/pyblog/friday-qa-2010-01-29-method-replacement-for-fun-and-profit.html)
+ [Method Replacement for Fun and Profit](https://www.mikeash.com/pyblog/friday-qa-2010-01-29-method-replacement-for-fun-and-profit.html)
 
 1. [Proposal: Universal dynamic dispatch for method calls](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151207/001922.html)
 
